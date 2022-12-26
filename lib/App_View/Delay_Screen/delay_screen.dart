@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 
-import '../widgets/button_widgets.dart';
-import '../widgets/drop_down_Station.dart';
-import '../widgets/drop_down_trainID.dart';
+import '../../widgets/button_widgets.dart';
+import '../../widgets/drop_down_Station.dart';
+import '../../widgets/drop_down_trainID.dart';
 
 class DelayScreen extends StatelessWidget {
   const DelayScreen({Key? key}) : super(key: key);

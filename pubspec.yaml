@@ -39,6 +39,13 @@ dependencies:
   flutter_screenutil: ^5.6.0
   flutter_datetime_picker: ^1.5.1
   get: ^4.6.5
+  provider:
+  http:
+  email_validator:
+  rxdart:
+  shared_preferences:
+  dio:
+
 
 dev_dependencies:
   flutter_test:

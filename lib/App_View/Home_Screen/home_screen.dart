@@ -6,9 +6,9 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 
-import '../widgets/drop_down_trainID.dart';
-import '../widgets/text_feild_widget.dart';
-import 'delay_screen.dart';
+import '../../widgets/drop_down_trainID.dart';
+import '../../widgets/text_feild_widget.dart';
+import '../Delay_Screen/delay_screen.dart';
 
 class Home extends StatefulWidget {
   Home({Key? key}) : super(key: key);
